@@ -1,3 +1,6 @@
+<img alt="muxi.ai" width="240" src="./avatar-dark.webp#gh-dark-mode-only">
+<img alt="muxi.ai" width="240" src="./avatar-light.webp#gh-light-mode-only">
+
 # The Future Is Agent-First
 
 > An invitation to the builders of tomorrow.
