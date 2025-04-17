@@ -1,16 +1,17 @@
-<img alt="muxi.ai" width="128" src="./avatar-on-dark.webp#gh-dark-mode-only">
-<img alt="muxi.ai" width="128" src="./avatar-on-light.webp#gh-light-mode-only">
+<img alt="muxi.ai" width="112" src="./avatar-on-dark.webp#gh-dark-mode-only">
+<img alt="muxi.ai" width="112" src="./avatar-on-light.webp#gh-light-mode-only">
+<br>
 
 # The Future Is Agent-First
 
 > An invitation to the builders of tomorrow.
 
-<p><br>
-  <a href="https://muxi.ai"><img height="25" src="icons/website.svg" alt="Website" title="Website"></a>
+<p>
+  <a href="https://muxi.ai"><img height="25" src="icons/website.svg" alt="MUXI's Website" title="MUXI's Website"></a>
   &nbsp;
-   <a href="https://twitter.com/muxi_ai"><img height="25" src="icons/x.svg" alt="X/Twitter" title="X/Twitter"></a>
+   <a href="https://twitter.com/muxi_ai"><img height="25" src="icons/x.svg" alt="MUXI on X/Twitter" title="MUXI on X/Twitter"></a>
   &nbsp;
-  <a href="https://www.linkedin.com/company/muxi-ai/"><img height="26" src="icons/linkedin.svg" alt="LinkedIn" title="LinkedIn"></a>
+  <a href="https://www.linkedin.com/company/muxi-ai/"><img height="26" src="icons/linkedin.svg" alt="MUXI on LinkedIn" title="MUXI on LinkedIn"></a>
 </p>
 
 ## The Vision
@@ -21,7 +22,7 @@ Not dashboards, but dialogue.
 Not SaaS logins, but intelligent conversations.
 Not a chatbot. Not a search box.
 
-An agent.
+**An agent.**
 
 One that remembers, reasons, and gets things done.
 
@@ -47,7 +48,7 @@ Use MUXI to build...
 - Assistants that manage your calendar, email, or personal life
 - Research agents that pull, summarize, and decide
 - Internal copilots for your team—whether it’s engineering, sales, or ops
-- AI-powered micro-SaaS tools
+- AI-powered SaaS tools
 - Multi-agent systems that plan, delegate, and collaborate
 - Autonomous systems that run indefinitely
 - Entire platforms powered by language models, memory, and interaction
@@ -67,4 +68,14 @@ We believe:
 The future is multiplexed intelligence.
 Let's build it together.
 
-Follow us on GitHub for updates.
+---
+
+Follow us for updates.
+
+<p>
+  <a href="https://muxi.ai"><img height="25" src="icons/website.svg" alt="MUXI's Website" title="MUXI's Website"></a>
+  &nbsp;
+   <a href="https://twitter.com/muxi_ai"><img height="25" src="icons/x.svg" alt="MUXI on X/Twitter" title="MUXI on X/Twitter"></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/company/muxi-ai/"><img height="26" src="icons/linkedin.svg" alt="MUXI on LinkedIn" title="MUXI on LinkedIn"></a>
+</p>
