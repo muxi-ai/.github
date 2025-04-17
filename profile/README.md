@@ -6,11 +6,11 @@
 > An invitation to the builders of tomorrow.
 
 <p>
-  <a href="https://muxi.ai"><img height="25" src="icons/website.svg" alt="MUXI's Website" title="MUXI's Website"></a>
+  <a href="https://muxi.ai"><img height="25" src="./icons/website.svg" alt="MUXI's Website" title="MUXI's Website"></a>
   &nbsp;
-   <a href="https://twitter.com/muxi_ai"><img height="25" src="icons/x.svg" alt="MUXI on X/Twitter" title="MUXI on X/Twitter"></a>
+   <a href="https://twitter.com/muxi_ai"><img height="25" src="./icons/x.svg" alt="MUXI on X/Twitter" title="MUXI on X/Twitter"></a>
   &nbsp;
-  <a href="https://www.linkedin.com/company/muxi-ai/"><img height="26" src="icons/linkedin.svg" alt="MUXI on LinkedIn" title="MUXI on LinkedIn"></a>
+  <a href="https://www.linkedin.com/company/muxi-ai/"><img height="26" src="./icons/linkedin.svg" alt="MUXI on LinkedIn" title="MUXI on LinkedIn"></a>
 </p>
 
 ## The Vision
@@ -72,9 +72,9 @@ Let's build it together.
 Follow us for updates.
 
 <p>
-  <a href="https://muxi.ai"><img height="25" src="icons/website.svg" alt="MUXI's Website" title="MUXI's Website"></a>
+  <a href="https://muxi.ai"><img height="25" src="./icons/website.svg" alt="MUXI's Website" title="MUXI's Website"></a>
   &nbsp;
-   <a href="https://twitter.com/muxi_ai"><img height="25" src="icons/x.svg" alt="MUXI on X/Twitter" title="MUXI on X/Twitter"></a>
+   <a href="https://twitter.com/muxi_ai"><img height="25" src="./icons/x.svg" alt="MUXI on X/Twitter" title="MUXI on X/Twitter"></a>
   &nbsp;
-  <a href="https://www.linkedin.com/company/muxi-ai/"><img height="26" src="icons/linkedin.svg" alt="MUXI on LinkedIn" title="MUXI on LinkedIn"></a>
+  <a href="https://www.linkedin.com/company/muxi-ai/"><img height="26" src="./icons/linkedin.svg" alt="MUXI on LinkedIn" title="MUXI on LinkedIn"></a>
 </p>
