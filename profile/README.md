@@ -5,6 +5,14 @@
 
 > An invitation to the builders of tomorrow.
 
+<p><br>
+  <a href="https://muxi.ai"><img height="25" src="icons/website.svg" alt="Website" title="Website"></a>
+  &nbsp;
+   <a href="https://twitter.com/muxi_ai"><img height="25" src="icons/x.svg" alt="X/Twitter" title="X/Twitter"></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/company/muxi-ai/"><img height="26" src="icons/linkedin.svg" alt="LinkedIn" title="LinkedIn"></a>
+</p>
+
 ## The Vision
 
 We believe the future of software is not apps—it’s agents.
