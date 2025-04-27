@@ -1,4 +1,4 @@
-<img alt="muxi.ai" width="72" src="./profile/icon.webp">
+<img alt="muxi.ai" width="72" src="./icon.webp">
 
 # The Future Is Agent-First
 
