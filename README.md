@@ -1,5 +1,4 @@
-<img alt="muxi.ai" width="112" src="./profile/avatar-on-dark.webp#gh-dark-mode-only">
-<img alt="muxi.ai" width="112" src="./profile/avatar-on-light.webp#gh-light-mode-only">
+<img alt="muxi.ai" width="72" src="./profile/icon.webp">
 
 # The Future Is Agent-First
 
