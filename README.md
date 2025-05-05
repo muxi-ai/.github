@@ -3,6 +3,7 @@
 # The Future Is Agent-First
 
 > An invitation to the builders of tomorrow.
+> Download the [whitepaper ›](https://drive.google.com/file/d/1zlJSB81gLmLfvvceNi_32EHeSUMVulRq/view)
 
 <p>
   <a href="https://muxi.ai"><img height="25" src="./profile/icons/website.svg" alt="MUXI's Website" title="MUXI's Website"></a>
