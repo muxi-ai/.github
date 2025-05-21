@@ -1,48 +1,18 @@
-# The Future Is Agent-First
+# MUXI (Alpha)
 
-We believe the future of software is not apps – it’s agents.
+**The future of software isn’t apps - it’s agents.**
 
-Not dashboards, but dialogue.
-Not SaaS logins, but intelligent conversations.
-Not a chatbot. Not a search box.
+MUXI is building an open, developer-first ecosystem for building real, production-ready AI agents – not just wrappers around chatbots. Built on clear principles like modularity, transparency, and declarative design, MUXI makes it easy to create agents that reason, remember, and get things done.
 
-**An agent.**
+We believe:
 
-One that remembers, reasons, and gets things done.
-
-MUXI lets you build those agents.
-
-It’s an open, developer-first ecosystem for building and running production AI agents – modular, transparent, and production-ready from day one.
-
-Where most tools are wrappers around language models, MUXI is a flexible approach for multiplexed intelligence: agents that think, remember, collaborate, and get things done.
-
-## Core Philosophy
-
-We believe that AI should be infrastructure, not a mystery. We also believe developers should own their workflows and the tools that power them.
-
-MUXI is built on a few key principles:
-
-- **Open by default**
-- **Declarative by design**.
-- **Composable at every layer**
-- **Agent-first architecture**
-
-The future is multiplexed intelligence.
-Let's build it together.
-
----
+- AI should be infrastructure, not mystery.
+- Agents should be open, composable, and owned by developers.
 
 > [!NOTE]
-> As development continues, we’ll gradually make more of our work public so you can follow along. However, unless explicitly stated otherwise, everything in this GitHub organization should be considered an early alpha version for the time being.
+> MUXI is in the early alpha stage. As development progresses, we’ll gradually make more of our work public so you can follow along. However, unless stated otherwise, everything here should be considered experimental for now.
 
----
+Follow us on GitHub and X for updates.
 
-Follow us for updates.
-
-<p>
-  <a href="https://muxi.ai"><img height="25" src="./icons/website.svg" alt="MUXI's Website" title="MUXI's Website"></a>
-  &nbsp;
-   <a href="https://twitter.com/muxi_ai"><img height="25" src="./icons/x.svg" alt="MUXI on X/Twitter" title="MUXI on X/Twitter"></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/company/muxi-ai/"><img height="26" src="./icons/linkedin.svg" alt="MUXI on LinkedIn" title="MUXI on LinkedIn"></a>
-</p>
+<a href="https://github.com/muxi-ai"><img height="25" src="./icons/github.svg" alt="MUXI on GitHub" title="MUXI on GitHub"></a>
+<a href="https://twitter.com/muxi_ai"><img height="25" src="./icons/x.svg" alt="MUXI on X/Twitter" title="MUXI on X/Twitter"></a>
