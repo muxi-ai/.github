@@ -1,5 +1,3 @@
-# MUXI (Alpha)
-
 **The future of software isn’t apps - it’s agents.**
 
 MUXI is building an open, developer-first ecosystem for building real, production-ready AI agents – not just wrappers around chatbots. Built on clear principles like modularity, transparency, and declarative design, MUXI makes it easy to create agents that reason, remember, and get things done.
