@@ -16,7 +16,7 @@ It’s an open, developer-first ecosystem for building and running production AI
 
 Where most tools are wrappers around language models, MUXI is a flexible approach for multiplexed intelligence: agents that think, remember, collaborate, and get things done.
 
-## The Core Philosophy
+## Core Philosophy
 
 We believe that AI should be infrastructure, not a mystery. We also believe developers should own their workflows and the tools that power them.
 
@@ -29,6 +29,11 @@ MUXI is built on a few key principles:
 
 The future is multiplexed intelligence.
 Let's build it together.
+
+---
+
+> [!NOTE]
+> As development continues, we’ll gradually make more of our work public so you can follow along. However, unless explicitly stated otherwise, everything in this GitHub organization should be considered an early alpha version for the time being.
 
 ---
 
