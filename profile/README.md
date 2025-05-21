@@ -1,18 +1,5 @@
 # The Future Is Agent-First
 
-> An invitation to the builders of tomorrow.<br>
-> Download the [whitepaper ›](https://drive.google.com/file/d/1zlJSB81gLmLfvvceNi_32EHeSUMVulRq/view)
-
-<p>
-  <a href="https://muxi.ai"><img height="25" src="./icons/website.svg" alt="MUXI's Website" title="MUXI's Website"></a>
-  &nbsp;
-   <a href="https://twitter.com/muxi_ai"><img height="25" src="./icons/x.svg" alt="MUXI on X/Twitter" title="MUXI on X/Twitter"></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/company/muxi-ai/"><img height="26" src="./icons/linkedin.svg" alt="MUXI on LinkedIn" title="MUXI on LinkedIn"></a>
-</p>
-
-## The Vision
-
 We believe the future of software is not apps – it’s agents.
 
 Not dashboards, but dialogue.
