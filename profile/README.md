@@ -8,7 +8,7 @@ I believe:
 - Agents should be open, composable, and owned by developers.
 
 > [!NOTE]
-> MUXI is a passion project by [@ranaroussi](https://github.com/ranaroussi) and [@automazeio](https://github.com/automazeio) and is in the early alpha stage. As development progresses, I'll gradually make more of my work public so you can follow along. However, unless stated otherwise, everything here should be considered experimental for now.
+> MUXI is a passion project by [@ranaroussi](https://github.com/ranaroussi) and is in the early alpha stage. As development progresses, I'll gradually make more of my work public so you can follow along. However, unless stated otherwise, everything here should be considered experimental for now.
 
 Follow the project on GitHub and X for updates.
 
