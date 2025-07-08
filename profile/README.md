@@ -12,5 +12,4 @@ I believe:
 
 Follow the project on GitHub and X for updates.
 
-<a href="https://github.com/muxi-ai"><img height="25" src="./icons/github.svg" alt="MUXI on GitHub" title="MUXI on GitHub"></a>
-<a href="https://twitter.com/muxi_ai"><img height="25" src="./icons/x.svg" alt="MUXI on X/Twitter" title="MUXI on X/Twitter"></a>
+<a href="https://github.com/muxi-ai"><img height="25" src="./icons/github.svg" alt="MUXI on GitHub" title="MUXI on GitHub"></a> <a href="https://twitter.com/muxi_ai"><img height="25" src="./icons/x.svg" alt="MUXI on X/Twitter" title="MUXI on X/Twitter"></a>
