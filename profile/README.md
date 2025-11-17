@@ -33,7 +33,7 @@ The full project will be released by the end of 2025.
 
 ## Follow along
 
-- **Watch this organisation to get updates**
+- **Follow this organisation to get updates**
 - Star repositories as they appear
 - Follow us on X/Twitter [@muxi_ai](https://x.com/intent/follow?screen_name=muxi_ai)
 - Check the website once the initial release drops (coming soon)
