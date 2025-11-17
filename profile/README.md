@@ -1,18 +1,41 @@
-## The future of software isn’t apps - it’s agents.
+# Infrastructure for the next generation of AI agents.
 
-The MUXI project's goal is to build an open, developer-first ecosystem for building real, production-ready AI agents – not just wrappers around chatbots. Built on clear principles like modularity, transparency, and declarative design, MUXI makes it easy to create agents that reason, remember, and get things done.
+MUXI (/muk-siː/, Multiplexed eXtensible Intelligence) is an open-source project that makes agents native primitives — not ad hoc scripts or chained prompts — but infrastructure-level processes with built-in orchestration, observability, and scale.
 
-I believe:
+## What we're building
 
-- AI should be infrastructure, not mystery.
-- Agents should be open, composable, and owned by developers.
+Modern AI workflows still treat agents as code patterns or framework constructs. 
 
-> [!NOTE]
-> MUXI is a passion project by [@ranaroussi](https://github.com/ranaroussi) and is in the early alpha stage. As development progresses, I'll gradually make more of my work public so you can follow along. However, unless stated otherwise, everything here should be considered experimental for now.
+We think they deserve their own foundation – a layer where:
 
-Follow the project on GitHub and X for updates.
+- Agents are declared, not improvised  
+- Coordination and reasoning aren't bolted on  
+- Memory, context, and tools feel native  
+- Any model can be used without vendor lock-in  
+- The system itself understands how agents operate  
 
-<p>
-  <a href="https://github.com/muxi-ai"><img height="25" src="./icons/github.svg" alt="MUXI on GitHub" title="MUXI on GitHub"></a>
-  <a href="https://x.com/muxi_ai"><img height="25" src="./icons/x.svg" alt="MUXI on X/Twitter" title="MUXI on X/Twitter"></a>
-</p>
+We’re building infrastructure that reflects this philosophy.
+
+## Why this matters
+
+As agents take on more responsibility, they need the same things every other production system relies on – predictability, structure, durability, and clarity. The current ecosystem doesn’t give developers that. We’re working on an alternative.
+
+## What to expect
+
+Over the coming weeks we’ll begin sharing:
+
+- Research notes and architectural concepts  
+- Early components and experiments  
+- Developer workflows built around agent-native ideas  
+- A preview of how this infrastructure fits into real products  
+
+The full project will be released by the end of 2025.
+
+## Follow along
+
+- **Watch this organisation to get updates**
+- Star repositories as they appear
+- Follow us on X/Twitter [@muxi_ai](https://x.com/intent/follow?screen_name=muxi_ai)
+- Check the website once the initial release drops (coming soon)
+
+If you’re interested in agent-native infrastructure, you’re in the right place.
