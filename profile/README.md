@@ -2,6 +2,19 @@
 
 MUXI (/muk-siː/, Multiplexed eXtensible Intelligence) is an open-source project that makes agents native primitives — not ad hoc scripts or chained prompts — but infrastructure-level processes with built-in orchestration, observability, and scale.
 
+## Our creed
+
+**Developers should be able to own their infrastructure. Period.**
+
+We believe AI systems should be:
+
+- **Self-hostable** - Run anywhere, owned by you
+- **Observable** - See what's happening, always
+- **Declarative** - Version-controlled and reproducible
+- **Open** - No secrets, no lock-in, no surveillance
+
+If you build it, you should control it.
+
 ## What we're building
 
 Modern AI workflows still treat agents as code patterns or framework constructs. 
@@ -18,11 +31,13 @@ We’re building infrastructure that reflects this philosophy.
 
 ## Why this matters
 
-As agents take on more responsibility, they need the same things every other production system relies on – predictability, structure, durability, and clarity. The current ecosystem doesn’t give developers that. We’re working on an alternative.
+As agents take on more responsibility, they need what every production system relies on: predictability, structure, durability, and clarity.
+
+The current ecosystem forces developers to stitch together 12+ tools. We're building the alternative.
 
 ## What to expect
 
-Over the coming weeks we’ll begin sharing:
+Over the coming weeks we’ll share:
 
 - Research notes and architectural concepts  
 - Early components and experiments  
@@ -33,9 +48,9 @@ The full project will be released by the end of 2025.
 
 ## Follow along
 
-- **Follow this organisation to get updates**
-- Star repositories as they appear
-- Follow us on X/Twitter [@muxi_ai](https://x.com/intent/follow?screen_name=muxi_ai)
-- Check the website once the initial release drops (coming soon)
+1. **Follow MUXI on github to get updates**
+2. Follow us on X/Twitter [@muxi_ai](https://x.com/intent/follow?screen_name=muxi_ai)
+3. Star repositories as they appear
+4. Check the website once the initial release drops (coming soon)
 
-If you’re interested in agent-native infrastructure, you’re in the right place.
+If you're interested in agent-native infrastructure you can actually own, you're in the right place.
