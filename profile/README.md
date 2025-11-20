@@ -31,9 +31,7 @@ We’re building infrastructure that reflects this philosophy.
 
 ## Why this matters
 
-As agents take on more responsibility, they need what every production system relies on: predictability, structure, durability, and clarity.
-
-The current ecosystem forces developers to stitch together 12+ tools. We're building the alternative.
+As agents take on more responsibility, they need what every production system relies on: predictability, structure, durability, and clarity. The current ecosystem forces developers to stitch together 12+ tools. We're building the alternative.
 
 ## What to expect
 
