@@ -4,7 +4,7 @@ MUXI (/muk-siː/, Multiplexed eXtensible Intelligence) is an open-source project
 
 ## Our creed
 
-**Developers should be able to own their infrastructure. Period.**
+**AI infrastructure should be open, not owned by big tech.**
 
 We believe AI systems should be:
 
