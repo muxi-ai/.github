@@ -46,9 +46,8 @@ The full project will be released by the end of 2025.
 
 ## Follow along
 
-1. **Follow MUXI on github to get updates**
-2. Follow us on X/Twitter [@muxi_ai](https://x.com/intent/follow?screen_name=muxi_ai)
-3. Star repositories as they appear
-4. Check the website once the initial release drops (coming soon)
+1. **Follow MUXI on [GitHub](https://github.com/muxi-ai) and [𝕏/Twitter](https://x.com/intent/follow?screen_name=muxi_ai) to get updates**
+2. Star repositories as they appear
+3. Check the website once the initial release drops (coming soon)
 
 If you're interested in agent-native infrastructure you can actually own, you're in the right place.
