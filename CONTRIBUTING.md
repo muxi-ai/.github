@@ -9,12 +9,12 @@ Thank you for your interest in contributing to MUXI!
 
 ## Quick Links
 
-- **[DEVELOPMENT.md](./DEVELOPMENT.md)** - Set up your dev environment
-- **[GIT-WORKFLOW.md](./GIT-WORKFLOW.md)** - Branching and release process
-- **[ARCHITECTURE.md](./ARCHITECTURE.md)** - Understand the system
-- **[REPOSITORIES.md](./REPOSITORIES.md)** - All MUXI repositories
-- **[Style Guides](./style-guides/)** - Language-specific coding conventions
-- **[AGENTS.md](./AGENTS.md)** - AI assistant context (template for all repos)
+- **[DEVELOPMENT.md](https://github.com/muxi-ai/muxi/DEVELOPMENT.md)** - Set up your dev environment
+- **[GIT-WORKFLOW.md](https://github.com/muxi-ai/muxi/GIT-WORKFLOW.md)** - Branching and release process
+- **[ARCHITECTURE.md](https://github.com/muxi-ai/muxi/ARCHITECTURE.md)** - Understand the system
+- **[REPOSITORIES.md](https://github.com/muxi-ai/muxi/REPOSITORIES.md)** - All MUXI repositories
+- **[Style Guides](https://github.com/muxi-ai/muxi/style-guides/)** - Language-specific coding conventions
+- **[AGENTS.md](https://github.com/muxi-ai/muxi/AGENTS.md)** - AI assistant context (template for all repos)
 
 ---
 
@@ -40,7 +40,7 @@ All pull requests **must target the `develop` branch**, not `main`. We use a thr
 develop → rc → main
 ```
 
-See [GIT-WORKFLOW.md](./GIT-WORKFLOW.md) for details.
+See [GIT-WORKFLOW.md](https://github.com/muxi-ai/muxi/GIT-WORKFLOW.md) for details.
 
 ### Issue First
 
