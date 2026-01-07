@@ -1,6 +1,6 @@
 {
-  "id": 11571011,
-  "name": "Require pull request + review",
+  "id": 11571012,
+  "name": "Require PR + review (develop)",
   "target": "branch",
   "source_type": "Repository",
   "source": "muxi-ai/cli",
@@ -9,8 +9,7 @@
     "ref_name": {
       "exclude": [],
       "include": [
-        "refs/heads/main",
-        "refs/heads/rc"
+        "refs/heads/develop"
       ]
     }
   },
@@ -44,5 +43,11 @@
       }
     }
   ],
-  "bypass_actors": []
+  "bypass_actors": [
+    {
+      "actor_id": 1185458,
+      "actor_type": "User",
+      "bypass_mode": "always"
+    }
+  ]
 }
