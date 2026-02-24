@@ -1,80 +1,107 @@
-<img alt="muxi.ai" width="72" src="./profile/icon.webp">
+<h1 align="center">
+  <img alt="MUXI" height="72" src="https://github.com/muxi-ai/muxi/raw/main/assets/muxi-wordmark.svg"><br>
+  Deploy Intelligence
+</h1>
 
-# The Future Is Agent-First
+<p align="center">The Open-source AI Application Server.<br>Not a framework. Not a wrapper. <u><strong>A server</strong></u>.</p>
 
-> An invitation to the builders of tomorrow.
-> Download the [whitepaper ›](https://drive.google.com/file/d/1zlJSB81gLmLfvvceNi_32EHeSUMVulRq/view)
-
-<p>
-  <a href="https://muxi.ai"><img height="25" src="./profile/icons/website.svg" alt="MUXI's Website" title="MUXI's Website"></a>
-  &nbsp;
-   <a href="https://twitter.com/muxi_ai"><img height="25" src="./profile/icons/x.svg" alt="MUXI on X/Twitter" title="MUXI on X/Twitter"></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/company/muxi-ai/"><img height="26" src="./profile/icons/linkedin.svg" alt="MUXI on LinkedIn" title="MUXI on LinkedIn"></a>
+<p align="center">
+  <a href="https://muxi.org/docs"><img src="https://img.shields.io/badge/Docs-muxi.org-c98b45.svg" alt="Docs" height="20"></a>&nbsp;
+  <a href="https://twitter.com/muxi_ai"><img height="20" src="https://github.com/muxi-ai/muxi/raw/main/assets/badge-twitter.svg" alt="X/Twitter"></a>&nbsp;
+  <a href="https://linkedin.com/company/muxi-ai"><img height="20" src="https://github.com/muxi-ai/muxi/raw/main/assets/badge-linkedin.svg" alt="LinkedIn"></a>
+  <!-- &nbsp;
+  <a href="https://github.com/sponsors/muxi-ai"><img src="https://img.shields.io/badge/Sponsor-❤-ea4aaa" alt="Sponsor"></a>&nbsp;
+  <a href="https://github.com/muxi-ai/muxi"><img src="https://img.shields.io/github/stars/muxi-ai/muxi?style=social&label=Stars" alt="GitHub stars"></a> -->
 </p>
 
-## The Vision
-
-We believe the future of software is not apps—it’s agents.
-
-Not dashboards, but dialogue.
-Not SaaS logins, but intelligent conversations.
-Not a chatbot. Not a search box.
-
-**An agent.**
-
-One that remembers, reasons, and gets things done.
-
-MUXI lets you build those agents.
-
-It’s an open, developer-first framework for building and running production AI agents – modular, transparent, and production-ready from day one.
-
-Where most tools are wrappers around language models, MUXI is an opinionated ecosystem for multiplexed intelligence: agents that think, remember, collaborate, and get things done.
-
-## The Core Philosophy
-
-MUXI is built on a few key principles:
-
-- **Open by default**. The MUXI framework is free and open source. You can run it anywhere, modify it however you want, and never need to use our cloud if you don’t want to.
-- **Declarative by design**. Agents are defined in plain language (YAML), not boilerplate code. Build powerful workflows without writing full applications.
-- **Composable at every layer**. Mix and match memory systems, toolchains, models, and workflows. Build your own integrations or use the growing library of modules.
-- **Agent-first architecture**. Everything revolves around agents. These aren’t just chatbots—they’re orchestrators of tools, memory, decision logic, and real-world action.
-
-## What You Can Build
-
-Use MUXI to build...
-
-- Assistants that manage your calendar, email, or personal life
-- Research agents that pull, summarize, and decide
-- Internal copilots for your team—whether it’s engineering, sales, or ops
-- AI-powered SaaS tools
-- Multi-agent systems that plan, delegate, and collaborate
-- Autonomous systems that run indefinitely
-- Entire platforms powered by language models, memory, and interaction
-
-MUXI is a batteries-included framework that scales from solo projects to full-blown AI apps.
-
-## The Manifesto
-
-We believe:
-
-- AI should be infrastructure, not mystery.
-- Developers should own their workflows—and the tools that power them.
-- The future of software is intelligent, multiplexed, and agent-driven.
-- Conversations should replace interfaces. AI should remove friction.
-- The web was decentralized. Then centralized. MUXI helps recentralize power in the hands of developers.
-
-The future is multiplexed intelligence.
-Let's build it together.
+<p align="center">
+  <a href="https://muxi.org/docs/quickstart">Quickstart</a> ·
+  <a href="https://muxi.org/docs">Docs</a> ·
+  <a href="https://agentformation.org">Agent Formation Schema</a> ·
+  <a href="https://github.com/muxi-ai/muxi/discussions">Community</a> ·
+  <a href="https://github.com/orgs/muxi-ai/projects/1">Roadmap</a>
+</p>
 
 ---
 
-Follow us for updates.
+<!-- TODO: Replace with terminal recording (asciinema/svg-term or ttygif, ~10-15s, ~800px width) -->
+<!-- Recommended flow: muxi pull @muxi/hello-world -> muxi deploy -> muxi chat hello-world 
+<p align="center">
+  <a href="https://muxi.org/#hero-demo-video"><img src="https://github.com/muxi-ai/muxi/raw/main/assets/demo.gif" alt="MUXI Demo" width="800"></a>
+</p>
+-->
 
-<p>
-  <a href="https://muxi.ai"><img height="25" src="./profile/icons/website.svg" alt="MUXI's Website" title="MUXI's Website"></a>
-  &nbsp;
-   <a href="https://twitter.com/muxi_ai"><img height="25" src="./profile/icons/x.svg" alt="MUXI on X/Twitter" title="MUXI on X/Twitter"></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/company/muxi-ai/"><img height="26" src="./profile/icons/linkedin.svg" alt="MUXI on LinkedIn" title="MUXI on LinkedIn"></a>
+No one builds their own Nginx to deploy a website. No one should reinvent infrastructure to build AI.
+
+MUXI (`/ˈmʌk.siː/`) is **production infrastructure for AI agents** -- where agents are native primitives with built-in orchestration, memory, observability, and scale.
+
+| Concept | Docker | MUXI |
+|---------|--------|------|
+| **Engine** | Docker Engine | Server + Runtime |
+| **Definition** | Dockerfile | Formation |
+| **Registry** | Docker Hub | MUXI Registry |
+| **CLI** | `docker` | `muxi` |
+
+```bash
+brew install muxi-ai/tap/muxi                        # macOS
+curl -fsSL https://muxi.org/install | sudo bash      # Linux
+powershell -c "irm https://muxi.org/install | iex"   # Windows
+```
+
+```bash
+muxi pull @muxi/hello-world   # pull a formation
+muxi deploy                   # deploy it
+muxi chat hello-world         # talk to it
+```
+
+**That's it.** Your agent is running, stateful, and accessible via API.
+
+---
+
+## What You Get
+
+- **Declarative agents** – `.afs` files, version-controlled, auto-discovered. [Docs](https://muxi.org/docs/concepts/agents-and-orchestration)
+- **Three-tier memory** – buffer, persistent, and semantic memory built in. [Docs](https://muxi.org/docs/concepts/memory-system)
+- **1,000+ MCP tools** – GitHub, Slack, Stripe, databases, and more. [Docs](https://muxi.org/docs/concepts/tools-and-mcp)
+- **Multi-tenant** – per-user isolation, RBAC, OAuth. [Docs](https://muxi.org/docs/concepts/multi-tenancy)
+- **Observability** – 349 event types, real-time streaming, 10+ export targets. [Docs](https://muxi.org/docs/concepts/observability)
+- **Intelligent orchestration** – Overlord routes to specialists, decomposes tasks. [Docs](https://muxi.org/docs/concepts/overlord)
+- **Async processing** – triggers, webhooks, scheduled tasks. [Docs](https://muxi.org/docs/concepts/async)
+- **Any LLM** – 21 providers, 300+ models, no lock-in. [Docs](https://muxi.org/docs/concepts/llm-providers)
+
+> MUXI implements the [**Agent Formation Standard**](https://github.com/agent-formation) – an open spec for declarative AI agents.
+
+---
+
+## Our Creed
+
+> [!IMPORTANT]
+> **AI infrastructure should be open, not owned by big tech.**
+> - **Self-hostable** – Run anywhere, owned by you
+> - **Observable** – See what's happening, always
+> - **Declarative** – Version-controlled and reproducible
+> - **Open** – No secrets, no lock-in
+>
+> If you build it, you should control it.
+
+---
+
+## Repositories
+
+| Repo | Description |
+|------|-------------|
+| [muxi](https://github.com/muxi-ai/muxi) | The meta repo |
+| [server](https://github.com/muxi-ai/server) | The AI Server |
+| [cli](https://github.com/muxi-ai/cli) | Command-line interface |
+| [sdks](https://github.com/muxi-ai/sdks) | 12 SDKs: Python, TypeScript, Go, Swift, Java, and more |
+
+---
+
+<p align="center">
+  <strong>MUXI</strong> = <strong>Mu</strong>ltiplexed e<strong>X</strong>tensible <strong>I</strong>ntelligence<br>
+  Built by <a href="https://x.com/aroussi">@aroussi</a>, author of <a href="http://productionaibook.com"><strong>Production-Grade Agentic AI</strong></a> (665 pages)
+</p>
+
+<p align="center">
+  <sub>For AI/LLM agents: <a href="https://muxi.org/llms.txt">muxi.org/llms.txt</a></sub>
 </p>
